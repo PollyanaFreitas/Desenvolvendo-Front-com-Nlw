@@ -1,18 +1,19 @@
-# NLW eSports
-![preview](./.github/preview.png)
+# NLW eSports 📝📚
+![preview](././.github/preview.png)
 
-> Trilha Explorer
+> Trilha Explorer 
 
 
-Projeto construido no evento Next Level Week da Rocketseat (09/22) Professor Maiky Brito
-[Clique aqui para acessar](https://PollyanaFreitas.github.io/nlwnew)
+Projeto construido no evento Next Level Week da Rocketseat (09/22) Professor Maiky Brito 
+[Clique aqui para acessar](https://pollyanafreitas.github.io/Nlw/) 
 
-## Tecnologias
--HTML
--CSS
--GIT HUB
+## Tecnologias 🛠
+*HTML
+*CSS
+*GIT HUB
 
-## Contato
+## Contato 💛⭐
 
 pollyana.freitaas@gmail.com
+
 
